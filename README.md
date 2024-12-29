@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Mathias 👋
 
-<!--
-**mathias-caillard/mathias-caillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I'm a recent graduate from Télécom SudParis, where I had the opportunity to learn about computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm particularly interested in Language Models, Natural Language Processing, and Machine Learning.
+
+- My academic background also covers mathematics, physics, and software engineering.
+
+- I'm looking forward to collaborate on innovative project using ``LangChain``.
+
+- 📫 How to reach me: 
+  - mathias.caillard@telecom-sudparis.org
+  - https://www.linkedin.com/in/mathias-caillard/

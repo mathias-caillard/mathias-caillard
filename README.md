@@ -10,5 +10,5 @@
 - I'm looking forward to collaborate on innovative project using ``LangChain``.
 
 - 📫 How to reach me: 
-  - mathias.caillard@telecom-sudparis.org
-  - https://www.linkedin.com/in/mathias-caillard/
+  - [mail](caillard.mathias@gmail.com)
+  - [linkedin](https://www.linkedin.com/in/mathias-caillard/)
